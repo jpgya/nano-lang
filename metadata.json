@@ -1,0 +1,5 @@
+{
+  "name": "NanoLang",
+  "description": "A super simple programming language designed for beginners. Write in Nano, compile to JavaScript, and run instantly.",
+  "requestFramePermissions": []
+}
